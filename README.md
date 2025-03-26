@@ -28,15 +28,7 @@ This project uses the OpenWeatherMap API. You'll need to:
 2. Get your API key
 3. Replace the `API_KEY` constant in `index.js` with your key
 
-## Project Structure 📁
 
-```
-Weather App/
-├── index.html
-├── styles.css
-├── index.js
-└── assets/
-```
 
 ## Features in Detail 📝
 
@@ -69,6 +61,7 @@ Let's connect! You can find me on:
 - GitHub: [Khushal Bairariya](https://github.com/bairariyakhushal)
 - LinkedIn: [Khushal Bairariya](https://www.linkedin.com/in/khushal-bairariya-581864280/)
 - Email: [bairariyakhushal@gmail.com](mailto:bairariyakhushal@gmail.com)
+
 
 ##
 
