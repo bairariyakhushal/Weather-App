@@ -2,6 +2,10 @@
 
 A simple and user-friendly weather application that provides real-time weather information for any city or your current location.
 
+## Live Demo 🚀
+
+**[Try Weatherly Live](https://bairariyakhushal.github.io/Weatherly/)**
+
 ## Features ✨
 
 - Get weather information for your current location
