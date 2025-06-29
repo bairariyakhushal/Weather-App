@@ -1,4 +1,4 @@
-# Weather App 🌤️
+# Weatherly 🌤️
 
 A simple and user-friendly weather application that provides real-time weather information for any city or your current location.
 
@@ -61,7 +61,3 @@ Let's connect! You can find me on:
 - GitHub: [Khushal Bairariya](https://github.com/bairariyakhushal)
 - LinkedIn: [Khushal Bairariya](https://www.linkedin.com/in/khushal-bairariya-581864280/)
 - Email: [bairariyakhushal@gmail.com](mailto:bairariyakhushal@gmail.com)
-
-
-##
-
